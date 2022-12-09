@@ -1,4 +1,7 @@
-This project aims to practice on how to refactor code to improve code readability, quality, and structures. Below is the list of updates:
+This project aims to practice on how to refactor code to improve code readability, quality, and structures.
+https://tatiya-w.github.io/module-1-challenge/
+
+Below is the list of updates:
 ## Update Application link
 - Add id attribute on search engine optimization code block ([click to view](https://github.com/tatiya-w/module-1-challenge/blob/main/index.html#L29))
  
