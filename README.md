@@ -1,6 +1,6 @@
 This project aims to practice on how to refactor code to improve code readability, quality, and structures. Below is the list of updates:
 ## Update Application link
-- Add id attribute on search engine optimization code block ([click to view](https://github.com/tatiya-w/module-1-challenge/blob/main/Develop/index.html#L29))
+- Add id attribute on search engine optimization code block ([click to view](https://github.com/tatiya-w/module-1-challenge/blob/main/index.html#L29))
  
 ## CSS selectors and properties consolidation 
 Here's a list of the selectors consolidation 
